@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Agaba Andrew
 - 👀 I’m interested in coding especailly open source projects
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on PHP, Android Native, Node, Angular, Vue projects
+- 💞️ I’m looking to collaborate on PHP, Java, Android, Node, Angular, Vue projects
 - 📫 How to reach me on agabaandre@gmail.com
 
 <!---
